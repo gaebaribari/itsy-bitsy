@@ -7,7 +7,7 @@
 
 ## 개발환경
 
-`Dart (Flutter)`, `Firebase`
+`Dart`, `Firebase`
 
 ## 주요성과
 
