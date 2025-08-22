@@ -3,7 +3,9 @@
 '잘게잘게'는 추상적인 목표를 메모장에 적듯 가볍게 작은 할일로 나누고, <br/>
 버튼을 눌러 하나씩 성취감을 쌓아가는 앱입니다. 
 
-홈페이지 👉 https://apps.apple.com/kr/app/잘게잘게/id6503808613 (현재는 사용자가 없어 중단)
+홈페이지 👉 https://apps.apple.com/kr/app/잘게잘게/id6503808613 (현재는 사용자가 없어 중단)![001](https://github.com/user-attachments/assets/58ae852d-8aad-470f-bf4a-b6d621824110)
+![002](https://github.com/user-attachments/assets/10cfe347-9253-4211-9ae2-2d43de3a8316)
+
 
 ## 개발환경
 
